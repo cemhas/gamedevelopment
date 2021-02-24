@@ -1,0 +1,209 @@
+fileFormatVersion: 2
+guid: 66183c6567ecf4e3c874e8143f779d58
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Arm_L
+    100002: Arm_R
+    100004: Armature
+    100006: Bolt
+    100008: Forearm_L
+    100010: Forearm_R
+    100012: Forearm_Twist_1_L
+    100014: Forearm_Twist_1_R
+    100016: Forearm_Twist_2_L
+    100018: Forearm_Twist_2_R
+    100020: Forearm_Twist_3_L
+    100022: Forearm_Twist_3_R
+    100024: Forearm_Twist_4_L
+    100026: Forearm_Twist_4_R
+    100028: FP_Arms
+    100030: //RootNode
+    100032: Hunting_Rifle
+    100034: Index_1_L
+    100036: Index_1_R
+    100038: Index_2_L
+    100040: Index_2_R
+    100042: Index_3_L
+    100044: Index_3_R
+    100046: Magazine
+    100048: Middle_1_L
+    100050: Middle_1_R
+    100052: Middle_2_L
+    100054: Middle_2_R
+    100056: Middle_3_L
+    100058: Middle_3_R
+    100060: Pinky_1_L
+    100062: Pinky_1_R
+    100064: Pinky_2_L
+    100066: Pinky_2_R
+    100068: Pinky_3_L
+    100070: Pinky_3_R
+    100072: Ring_1_L
+    100074: Ring_1_R
+    100076: Ring_2_L
+    100078: Ring_2_R
+    100080: Ring_3_L
+    100082: Ring_3_R
+    100084: Root
+    100086: Thumb_1_L
+    100088: Thumb_1_R
+    100090: Thumb_2_L
+    100092: Thumb_2_R
+    100094: Thumb_3_L
+    100096: Thumb_3_R
+    100098: Trigger
+    100100: Weapon
+    100102: Wrist_L
+    100104: Wrist_R
+    400000: Arm_L
+    400002: Arm_R
+    400004: Armature
+    400006: Bolt
+    400008: Forearm_L
+    400010: Forearm_R
+    400012: Forearm_Twist_1_L
+    400014: Forearm_Twist_1_R
+    400016: Forearm_Twist_2_L
+    400018: Forearm_Twist_2_R
+    400020: Forearm_Twist_3_L
+    400022: Forearm_Twist_3_R
+    400024: Forearm_Twist_4_L
+    400026: Forearm_Twist_4_R
+    400028: FP_Arms
+    400030: //RootNode
+    400032: Hunting_Rifle
+    400034: Index_1_L
+    400036: Index_1_R
+    400038: Index_2_L
+    400040: Index_2_R
+    400042: Index_3_L
+    400044: Index_3_R
+    400046: Magazine
+    400048: Middle_1_L
+    400050: Middle_1_R
+    400052: Middle_2_L
+    400054: Middle_2_R
+    400056: Middle_3_L
+    400058: Middle_3_R
+    400060: Pinky_1_L
+    400062: Pinky_1_R
+    400064: Pinky_2_L
+    400066: Pinky_2_R
+    400068: Pinky_3_L
+    400070: Pinky_3_R
+    400072: Ring_1_L
+    400074: Ring_1_R
+    400076: Ring_2_L
+    400078: Ring_2_R
+    400080: Ring_3_L
+    400082: Ring_3_R
+    400084: Root
+    400086: Thumb_1_L
+    400088: Thumb_1_R
+    400090: Thumb_2_L
+    400092: Thumb_2_R
+    400094: Thumb_3_L
+    400096: Thumb_3_R
+    400098: Trigger
+    400100: Weapon
+    400102: Wrist_L
+    400104: Wrist_R
+    2100000: 1
+    2100002: FP_Arms
+    4300000: Hunting_Rifle
+    4300002: FP_Arms
+    7400000: Draw
+    7400002: Fire
+    7400004: Hold_Pose
+    7400006: Holster
+    7400008: Idle
+    9500000: //RootNode
+    13700000: FP_Arms
+    13700002: Hunting_Rifle
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
