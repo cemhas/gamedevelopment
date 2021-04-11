@@ -1,0 +1,84 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &6037259163006297994
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6037259163006297992}
+  - component: {fileID: 6037259163006297995}
+  - component: {fileID: 1888648438}
+  m_Layer: 0
+  m_Name: GameManager
+  m_TagString: Game_manager
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6037259163006297992
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6037259163006297994}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 58.054295, y: 194.80339, z: 269.1141}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &6037259163006297995
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6037259163006297994}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f92dfea91142344768ea14d057ae04ea, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  planets:
+  - {fileID: 2645083929780238594, guid: 68dedd7ce83784565a609081e9c686a1, type: 3}
+  - {fileID: 6866796726517418418, guid: d373539a01b62481f971562bf3c3dfe4, type: 3}
+  - {fileID: 8331237806388060967, guid: 7ceb09c805c88411aadaf522094575a5, type: 3}
+  elements:
+  - {fileID: 4288886806563507891, guid: ee60cff25b8a741dda9acf2e59fda3ba, type: 3}
+  stonesl:
+  - {fileID: 8754676943331824219, guid: 6fb91417bd5fa42c8b5465709d6d83b1, type: 3}
+  - {fileID: 8754676943331824219, guid: 6fb91417bd5fa42c8b5465709d6d83b1, type: 3}
+  - {fileID: 8754676943331824219, guid: 6fb91417bd5fa42c8b5465709d6d83b1, type: 3}
+  stonesr:
+  - {fileID: 8754676943331824219, guid: 6bc224fcf786d4f09844728f8ea97594, type: 3}
+  - {fileID: 8754676943331824219, guid: 6bc224fcf786d4f09844728f8ea97594, type: 3}
+  - {fileID: 8754676943331824219, guid: 6bc224fcf786d4f09844728f8ea97594, type: 3}
+  powerups:
+  - {fileID: 8874201352955311432, guid: 8bc69d5e49cf74dbfa4e50835a0f6ceb, type: 3}
+  - {fileID: 4068467899319846967, guid: fb9feb2b54cdc403fa357ce3c7e6ac56, type: 3}
+  sm: {fileID: 1888648438}
+  rand_number: 0
+--- !u!114 &1888648438
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6037259163006297994}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dd3ca23225daa4323999b0ad23ca46a7, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  levelscore: 12
+  current_level: 0
+  levelend_canvas: {fileID: 0}
+  gameover_canvas: {fileID: 0}
+  explodes: []
+  explodes1: []
+  ss: {fileID: 6037259163006297995}
